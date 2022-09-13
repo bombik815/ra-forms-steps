@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/6cyvl87q5ll8reh3/branch/main?svg=true)](https://ci.appveyor.com/project/bombik815/ra-forms-steps/branch/main)
 
 [Учёт тренировок](https://bombik815.github.io/ra-forms-steps/)
 
