@@ -1,0 +1,98 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#root {
+  width: 500px;
+  margin: 20px auto;
+}
+
+.form-steps {
+  display: flex;
+  justify-content: space-between;
+}
+
+.input-date {
+  display: flex;
+  flex-direction: column;
+}
+
+.input-range {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 5px;
+  padding-left: 3px;
+}
+
+.btn-steps {
+  width: 80px;
+  height: 30px;
+  align-self: end;
+  border: 1px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.board-steps {
+  border: 1px solid black;
+  margin-top: 15px;
+  border-radius: 8px;
+}
+
+.board-header {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 25px;
+}
+
+.board-date {
+
+}
+
+.board-range {
+
+}
+
+.board-action {
+
+}
+
+.board-body {
+
+}
+
+.step {
+  display: flex;
+  justify-content: space-between;
+  margin: 5px 25px;
+}
+.step-date {
+
+}
+.step-range {
+
+}
+.step-action {
+
+}
+.btn-change, .btn-remove {
+  width: 20px;
+  height: 20px;
+  border: none;
+  background-color: white;
+  background-position: center;
+  background-repeat: no-repeat;
+  cursor: pointer;
+}
+.btn-change {
+  background-image: url(../image/edit.png);
+}
+.btn-remove {
+  background-image: url(../image/remove.png);
+}
