@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ra-forms-steps/static/css/main.2db58f74.css",
+    "main.js": "/ra-forms-steps/static/js/main.5a690c71.js",
+    "index.html": "/ra-forms-steps/index.html",
+    "main.2db58f74.css.map": "/ra-forms-steps/static/css/main.2db58f74.css.map",
+    "main.5a690c71.js.map": "/ra-forms-steps/static/js/main.5a690c71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2db58f74.css",
+    "static/js/main.5a690c71.js"
+  ]
+}
